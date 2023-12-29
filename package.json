@@ -13,7 +13,7 @@
     "passport-google-oauth20": "^2.0.0",
     "passport-jwt": "^4.0.1"
   },
-  "name": "week5challengemernbackend",
+  "name": "backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
